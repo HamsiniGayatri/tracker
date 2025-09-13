@@ -1,6 +1,6 @@
 # tracker
 ## 1. Hashing
-- [ ] Two Sum
+- [ x] Two Sum
 - [ ] Three Sum / Subarray Sum
 - [ ] Longest Consecutive Sequence
 - [ ] Anagrams Grouping
